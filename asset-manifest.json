@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-animation/static/css/main.b06a1e4e.css",
+    "main.js": "/card-animation/static/js/main.9009300b.js",
+    "index.html": "/card-animation/index.html",
+    "main.b06a1e4e.css.map": "/card-animation/static/css/main.b06a1e4e.css.map",
+    "main.9009300b.js.map": "/card-animation/static/js/main.9009300b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06a1e4e.css",
+    "static/js/main.9009300b.js"
+  ]
+}
